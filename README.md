@@ -6,7 +6,7 @@
 🔭 I’m currently working on Bug Bounty, MalDev & Exploit Development <br><br>🌱 I’m currently learning Shellcoding in ASM/C & Rust<br><br>👨‍💻 All of my projects are available at https://github.com/TheShellSanta<br><br>💬 Feel free to ask me about Maldev in C/Rust/Asm or Shellcoding ,Pentesting & Linux<br><br>📄 Know about my experiences Mastercard CyberSecurity Analyst Intern,CTF player at VulnHub/HTB/THM & PicoCTF, OSINT <br><br>⚡Fun Fact Ethical hackers secure systems; backend devs power them. Synergy ensues.
 
 ## TryHackMe
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/D4rD00M.png)](https://tryhackme.com/p/D4rD00M)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/D4rD00M.png)](https://tryhackme.com/p/IamPRYM)
 
 
 ## 🌐 Socials:
