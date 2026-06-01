@@ -3,7 +3,7 @@
 <img src="https://github.com/D4rD00M/Contributors/blob/main/Creators%20%26%20Projects/Xer0Weeds.jpg" alt="D4rD00M" width="600" style="vertical-align: bottom;">
 
 # 💫 About Me:
-🔭 I’m currently working on Bug Bounty, MalDev & Exploit Development <br><br>🌱 I’m currently learning Shellcoding in ASM/C & Rust<br><br>👨‍💻 All of my projects are available at https://github.com/TheShellSanta<br><br>💬 Feel free to ask me about Maldev in C/Rust/Asm or Shellcoding ,Pentesting & Linux<br><br>📄 Know about my experiences Mastercard CyberSecurity Analyst Intern,CTF player at VulnHub/HTB/THM & PicoCTF, OSINT <br><br>⚡Fun Fact Ethical hackers secure systems; backend devs power them. Synergy ensues.
+🌱 Still learning Shellcoding in Assembly, Maldev in Rust,C & Web App Security <br><br>👨‍💻 Building & Contributing To Open Source Projects https://github.com/TheShellSanta<br><br>💬 Feel free to ask me about Maldev,Shellcoding, Web App & AD Pentesting <br><br>📄 I actively participate in CTFs at VulnHub/HTB/THM & PicoCTF <br><br>
 
 ## TryHackMe
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/IamPRYM.png)](https://tryhackme.com/p/IamPRYM)
