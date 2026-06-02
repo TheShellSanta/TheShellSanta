@@ -3,7 +3,7 @@
 <img src="https://github.com/D4rD00M/Contributors/blob/main/Creators%20%26%20Projects/Xer0Weeds.jpg" alt="D4rD00M" width="600" style="vertical-align: bottom;">
 
 # 💫 About Me:
-🌱 Still learning Shellcoding in Assembly, Maldev in Rust, C & Web App Security <br><br>👨‍💻 Building & Contributing To Open Source Projects https://github.com/TheShellSanta<br><br>💬 Feel free to ask me about Maldev,Shellcoding, Web App & AD Pentesting <br><br>📄 I actively participate in CTFs at VulnHub/HTB/THM & PicoCTF <br><br>
+🌱 Still learning Shellcoding in Assembly, Maldev in Rust, C & Web App Security <br><br>👨‍💻 Building & Contributing To Open Source Projects https://github.com/TheShellSanta<br><br>💬 Feel free to ask me about Maldev, Shellcoding, Web App & AD Pentesting <br><br>📄 I actively participate in CTFs at VulnHub/HTB/THM & PicoCTF <br><br>
 
 ## TryHackMe
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/IamPRYM.png)](https://tryhackme.com/p/IamPRYM)
